@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-<!--<div align="center">-->
-  <img height="180em" width= "100%" src="https://github-readme-stats.vercel.app/api?username=IgorMartSan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMartSan&layout=compact&langs_count=7&theme=merko"/>
-<!--</div>-->
+<div align="center">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorMartSan&show_icons=true&theme=merko)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMartSan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+</div>
