@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,django,spring,react,pytorch,postgres,redis,rabbitmq,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,react,pytorch,postgres,redis,rabbitmq,docker,git" />
 </p>
 
 <div align="center">
-
-
 
 
 
